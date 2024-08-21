@@ -27,6 +27,3 @@ Managing the quality of products is the primary concern in manufacturing product
   <img src="https://github.com/vuthithuhuyen/A-YOLO-based-Real-time-Packaging-Defect-Detection-System/blob/main/System%20GUI.png" width="700" title="The system GUI">    
 </p>
 <p align="center"><label>**The system GUI**</label></p>
-
-
-If you need any additional information, don't hesitate to contact me at thuhuyen (at) kyonggi dot ac dot kr
